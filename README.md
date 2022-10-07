@@ -2,4 +2,4 @@
 
 ## Arvutivõrkude alused jutt
 
-Väga äge
+Palju tähtsat teksti
