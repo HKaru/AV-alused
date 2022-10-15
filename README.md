@@ -54,3 +54,5 @@ google.com.             300     IN      A       142.251.31.101
 ;; WHEN: Sat Oct 15 08:32:58 UTC 2022
 ;; MSG SIZE  rcvd: 135
 ```
+## 3. Addressing and Networks
+
